@@ -1,0 +1,19 @@
+.TechTreeScreen {
+  padding: 20px;
+  flex: 1;
+  flex-direction: row;
+}
+
+.TechTreeScreen ul {
+  list-style: none;
+  padding-left: 0;
+  width: 640px;
+  margin: auto;
+  border: 1px solid #aaa;
+}
+
+.TechTreeScreen li {
+  text-align: left;
+  border-bottom: 1px solid #aaa;
+  padding-left: 20px;
+}

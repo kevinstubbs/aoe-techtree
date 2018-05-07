@@ -1,0 +1,2 @@
+export const CIVILIZATIONS_FETCHED = 'civilizations.CIVILIZATIONS_FETCHED';
+export const CIVILIZATION_CHANGED = 'civilizations.CIVILIZATION_CHANGED';
